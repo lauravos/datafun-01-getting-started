@@ -1,0 +1,16 @@
+2023-08-25 16:51:57,027.bonus1_lauragagnon.INFO ==================================================
+2023-08-25 16:51:57,027.bonus1_lauragagnon.INFO Today is 2023-08-25 at 04:51 PM
+2023-08-25 16:51:57,054.bonus1_lauragagnon.INFO Running on: nt Windows 10
+2023-08-25 16:51:57,054.bonus1_lauragagnon.INFO Python version:  3.11.4
+2023-08-25 16:51:57,054.bonus1_lauragagnon.INFO Python path: C:\Users\laura\AppData\Local\Programs\Python\Python311
+2023-08-25 16:51:57,054.bonus1_lauragagnon.INFO Working dir: C:\Users\laura\Documents\datafun-01-getting-started
+2023-08-25 16:51:57,055.bonus1_lauragagnon.INFO ==================================================
+2023-08-25 16:51:59,674.bonus1_lauragagnon.INFO The area of a circle with radius 3.0 is 28.274333882308138.
+2023-08-25 16:51:59,674.bonus1_lauragagnon.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-25 16:51:59,675.bonus1_lauragagnon.INFO The area of a circle with radius 3.0 is 28.27.
+2023-08-25 16:51:59,675.bonus1_lauragagnon.INFO Much better! (After you fix it.)
+2023-08-25 16:52:03,101.bonus1_lauragagnon.INFO the sum of the three numbers is 6.
+2023-08-25 16:52:03,101.bonus1_lauragagnon.INFO the average of the 3 numbers is 2.0
+2023-08-25 16:52:03,101.bonus1_lauragagnon.INFO the product of the 3 numbers is 6
+2023-08-25 16:52:03,101.bonus1_lauragagnon.INFO the minimum of the 3 numbers is 1
+2023-08-25 16:52:03,101.bonus1_lauragagnon.INFO the maximum of the three numbers is 3
