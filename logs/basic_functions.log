@@ -1,0 +1,14 @@
+2023-08-25 15:32:42,251.basic_functions.INFO ==================================================
+2023-08-25 15:32:42,252.basic_functions.INFO Today is 2023-08-25 at 03:32 PM
+2023-08-25 15:32:42,276.basic_functions.INFO Running on: nt Windows 10
+2023-08-25 15:32:42,277.basic_functions.INFO Python version:  3.11.4
+2023-08-25 15:32:42,277.basic_functions.INFO Python path: C:\Users\laura\AppData\Local\Programs\Python\Python311
+2023-08-25 15:32:42,277.basic_functions.INFO Working dir: C:\Users\laura\Documents\datafun-01-getting-started
+2023-08-25 15:32:42,277.basic_functions.INFO ==================================================
+2023-08-25 15:32:42,287.basic_functions.INFO Functions url = https://docs.python.org/3/library/functions.html
+2023-08-25 15:32:42,287.basic_functions.INFO number_list = [1, 2, 3, 4, 5]
+2023-08-25 15:32:42,287.basic_functions.INFO len(number_list) = 5
+2023-08-25 15:32:42,288.basic_functions.INFO min(number_list) = 1
+2023-08-25 15:32:42,288.basic_functions.INFO max(number_list) = 5
+2023-08-25 15:32:45,073.basic_functions.INFO message = Hello Laura!
+2023-08-25 15:32:46,722.basic_functions.INFO response = other

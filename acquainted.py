@@ -48,16 +48,16 @@ logger, logname = setup_logger(__file__)
 # TODO: Customize these by changing the values - use your own name, etc.
 
 # String data types
-name = "John Doe"
-state = "California"
+name = "Laura Vos"
+state = "Wisconsin"
 country = "USA"
 
 # Integer data types
-pet_count = 1
-skill_count = 24
+pet_count = 3
+skill_count = 4
 
 # Float data types (floating point numbers, with a decimal point)
-temperature_f = 81.5
+temperature_f = 82.5
 pet_weight_lbs = 12.5
 
 
